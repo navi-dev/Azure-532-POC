@@ -50,3 +50,16 @@ FrontEnd/dist/styles.js.map
 FrontEnd/dist/tables-tables-module.js
 FrontEnd/dist/tables-tables-module.js.map
 FrontEnd/dist/vendor.js
+BackEnd/InvestmentTracker/InvestmentTracker/bin/*
+BackEnd/InvestmentTracker/InvestmentTracker/obj/*
+BackEnd/InvestmentTracker/InvestmentTracker.Contracts/bin/*
+BackEnd/InvestmentTracker/InvestmentTracker.Contracts/obj/*
+BackEnd/InvestmentTracker/InvestmentTracker.DAL/bin/*
+BackEnd/InvestmentTracker/InvestmentTracker.DAL/obj/*
+BackEnd/InvestmentTracker/InvestmentTracker.Database/bin/*
+BackEnd/InvestmentTracker/InvestmentTracker.Database/obj/*
+BackEnd/InvestmentTracker/InvestmentTracker.Services/bin/*
+BackEnd/InvestmentTracker/InvestmentTracker.Services/obj/*
+BackEnd/InvestmentTracker/InvestmentTracker.Shared/bin/*
+BackEnd/InvestmentTracker/InvestmentTracker.Shared/obj/*
+BackEnd/InvestmentTracker/.vs/*
